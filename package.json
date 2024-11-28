@@ -1,11 +1,7 @@
 {
-  "homepage": "https://leonardonogueira07.github.io/ColecaoPokemon/",
   "name": "pokedex",
   "version": "0.1.0",
-<<<<<<< HEAD
-=======
   "homepage": "https://leonardonogueira07.github.io/ColecaoPokemon/",
->>>>>>> 4b58952d6e107e99dff11aebf140636797f8f124
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.5",
