@@ -34,7 +34,7 @@ export const Home = () => {
         }
 
         for (var i in pokemons) {
-            if (pokemons[i].data.name.includes(name)) {
+            if (pokemons[i].data.name.includes(name.toLowerCase())) {
                 filteredPokemon.push(pokemons[i]);
             }
         }
