@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ColecaoPokemon/static/css/main.f855e6bc.css",
-    "main.js": "/ColecaoPokemon/static/js/main.ec59bbe6.js",
+    "main.js": "/ColecaoPokemon/static/js/main.68971a3d.js",
     "static/js/453.ac4c0547.chunk.js": "/ColecaoPokemon/static/js/453.ac4c0547.chunk.js",
     "index.html": "/ColecaoPokemon/index.html",
     "main.f855e6bc.css.map": "/ColecaoPokemon/static/css/main.f855e6bc.css.map",
-    "main.ec59bbe6.js.map": "/ColecaoPokemon/static/js/main.ec59bbe6.js.map",
+    "main.68971a3d.js.map": "/ColecaoPokemon/static/js/main.68971a3d.js.map",
     "453.ac4c0547.chunk.js.map": "/ColecaoPokemon/static/js/453.ac4c0547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ec59bbe6.js"
+    "static/js/main.68971a3d.js"
   ]
 }
